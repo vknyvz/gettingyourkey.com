@@ -1,0 +1,22 @@
+/* content */
+.text-header { font-size: 19pt; font-family: Arial Narrow, Arial, sans-serif; color: #ffffff;}
+.pageContent { font-size: 9pt; font-family: Arial Narrow, Arial, sans-serif; color: #ffffff; }
+ .pageContent a { font-size: 8pt; font-family: Arial Narrow, Arial, sans-serif; color: #ffffff; }
+
+/* top elements */
+.company { font-weight: bold; font-size: 16pt; font-family: Arial Narrow, Arial, sans-serif; color: #4E5C66; text-decoration: none; text-transform: uppercase; font-style: italic; }
+.slogan { font-size: 8pt; font-family: Arial Narrow, Arial, sans-serif; color: #626262; }
+
+/*main menu*/
+.menu { font-size: 8pt; font-family: Arial Narrow, Arial, sans-serif; color: #7E7E7E; text-decoration: none; text-transform: uppercase; }
+.amenu { font-size: 8pt; font-family: Arial Narrow, Arial, sans-serif; color: #7E7E7E; text-decoration: underline; text-transform: uppercase; }
+
+/*submenu*/
+.submenu { font-size: 8pt; font-family: Arial Narrow, Arial, sans-serif; color: #ffffff; text-decoration: none; }
+.asubmenu { font-size: 8pt; font-family: Arial Narrow, Arial, sans-serif; color: #ffffff; text-decoration: underline; }
+
+/*copyright*/
+.footer { font-size: 8pt; font-family: Arial Narrow, Arial, sans-serif; color: #636363; }
+
+/*backgrounds*/
+.bg { background-color: #76B66C; }

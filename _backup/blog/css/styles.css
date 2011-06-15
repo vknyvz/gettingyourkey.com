@@ -1,0 +1,22 @@
+/* content */
+.text-header { font-weight: bold; font-size: 12pt; font-family: Arial Narrow, Arial, sans-serif; color: #D92D15;}
+.pageContent { font-size: 8pt; font-family: Tahoma, sans-serif; color: #4E4E4E; }
+.pageContent a { font-size: 8pt; font-family: Tahoma, sans-serif; color: #000000; text-decoration: underline;}
+
+/* top elements */
+.company { font-weight: bold; font-size: 17pt; line-height: 18px; font-family: Arial Narrow, Arial, sans-serif; color: #FFFFFF; }
+
+/*main menu*/
+.menu { font-size: 8pt; font-family: Tahoma, sans-serif; color: #FFFFFF; text-decoration: none; }
+.amenu { font-size: 8pt; font-family: Tahoma, sans-serif; color: #FFFFFF; text-decoration: underline; }
+
+/*submenu*/
+.submenu { font-size: 8pt; font-family: Tahoma, sans-serif; color: #4A4B4B; text-decoration: none; }
+.asubmenu { font-size: 8pt; font-family: Tahoma, sans-serif; color: #4A4B4B; text-decoration: underline; }
+
+.footer { font-size: 8pt; font-family: Tahoma, sans-serif; color: #C2DFC0;}
+
+/*backgrounds*/
+.main-bg { background-color: #51A147; }
+.content-bg { background-color: #F1F4F8; }
+.menu-bg { background-color: #468C3F; }
