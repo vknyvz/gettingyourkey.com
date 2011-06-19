@@ -10,17 +10,6 @@
 	require_once('messages.php');	
 	
 	$siteRoot = getParameter("site_root");
-	
-	/*
-	if(strpos($url, "yuba") != false)
-	{
-		$siteRoot = "http://www.yubastudios.com/clients/jack";
-	}
-	else
-	{
-		$siteRoot = "http://localhost/Get a Key/Version 2";
-	}
-	*/
-	
+			
 	$siteTitle = getParameter("site_title");
 ?>
