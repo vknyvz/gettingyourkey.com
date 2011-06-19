@@ -7,10 +7,10 @@ class MySQL
 
     function MySQL()  //connects to the database with specified information
     {
-		$db_name = "JackS_";
+		$db_name = "";
 		$db_host = "localhost";	
-		$db_user = "jack";
-		$db_pass = "hyp3ri0n";		
+		$db_user = "";
+		$db_pass = "";		
 		
 		$this->db_connection = mysql_connect($db_host, $db_user, $db_pass) or die('Could not connect to database server.');
 		
