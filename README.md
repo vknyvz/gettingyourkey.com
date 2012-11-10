@@ -5,7 +5,7 @@ Real Estate Classifieds
 
 #### Technology ####
       - Written for LAMP environment.
-	  - Custom scripting using OO PHP5, MySQL, and Javascript
+	  - Custom scripting using OO PHP, MySQL, and Javascript
 	  - Worked fully on HTML/CSS
 	  
 #### Features ####
