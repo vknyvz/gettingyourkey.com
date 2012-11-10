@@ -5,11 +5,7 @@ Real Estate Classifieds
 
 #### Technology ####
       - Written for LAMP environment.
-	  - Custom scripting using OO PHP, MySQL, and Javascript
-	  - Worked fully on HTML/CSS
-	  
-#### Features ####
-    - This is a full featured real estate broker management application
+	  - Custom scripting using PHP, MySQL, Javascript, HTML and CSS
 	 
 Volkan Yavuz <br>
 Software Engineer <br>
