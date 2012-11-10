@@ -1,5 +1,5 @@
-Real Estate Classifieds fully scalable application
-=============================================
+Real Estate Classifieds 
+--------------------------------------------------------
  
 #### A freelance project that I worked on in 2007 ####
 
